@@ -1,2 +1,5 @@
-# folding-at-home-cookbook
-Download, Install, and Configure Folding@Home on Linux
+# folding-at-home
+
+Install & Configure Stanford Universities Folding@Home on Linux
+
+More to come later
